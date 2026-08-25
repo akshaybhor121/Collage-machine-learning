@@ -49,7 +49,7 @@ print("\nAccuracy:", accuracy)
 
 cm = confusion_matrix(y_test, y_pred)
 
-print("\nConfusion Matrix:")
+print("\nConfusion Matrix :")
 print(cm)
 
 print("\nClassification Report:")
